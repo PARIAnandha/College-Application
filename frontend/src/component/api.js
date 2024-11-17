@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://college-application-backend.onrender.com";
+const API_BASE_URL = "Api add";
 
 export const submitApplication = async (applicationData) => {
   try {
